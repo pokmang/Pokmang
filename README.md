@@ -22,7 +22,7 @@
 ![Nest](https://img.shields.io/badge/-Nest.js-000?&logo=Nest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![IoT](https://img.shields.io/badge/-Docker-000?&logo=nodemcu)
+![IoT](https://img.shields.io/badge/-NodeMCU-000?&logo=nodemcu)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### ⚙️ &nbsp;GitHub Analytics
